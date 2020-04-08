@@ -1,0 +1,52 @@
+ 
+ *{
+	margin: 0;
+	padding: 0;
+	font-family:  Century Gothic;
+}
+.corona h1
+{
+	margin-top: 5px;
+	font-size:58px; 
+	font-style: italic;
+	color:white;
+
+}
+.corona p
+{
+	margin-top: 80px;
+	margin-right: 5px;
+	margin-left: 5px;
+	font-size: 21px;
+	font-style: italic;
+	color:white; 
+}
+.button
+{
+	font-size: 25px;
+	color:#E70BEA;
+	position: absolute;
+	top:96%;
+	left: 80%;
+	transform: translate(-50%,-50%);
+
+}
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #000000;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+.btn:hover{
+	background-color:#F253C6 ;
+	color:#000;
+}
+.logo img
+{
+    float:right;
+    margin-top: 10px;
+	margin-right: 20px;
+	width: 100px;
+	height: auto;
+}
